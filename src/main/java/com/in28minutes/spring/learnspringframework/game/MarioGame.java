@@ -1,7 +1,8 @@
 package com.in28minutes.spring.learnspringframework.game;
 
-import com.in28minutes.spring.learnspringframework.GamingConsole;
 import org.springframework.stereotype.Component;
+
+import com.in28minutes.spring.learnspringframework.GamingConsole;
 
 @Component
 public class MarioGame implements GamingConsole {
